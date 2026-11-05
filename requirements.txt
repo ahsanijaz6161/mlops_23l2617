@@ -1,6 +1,6 @@
-tensorflow
 pandas
 numpy
 scikit-learn
 matplotlib
-torch
+tensorflow
+pyyaml
